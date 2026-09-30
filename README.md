@@ -24,3 +24,15 @@ For each milestone, I will record the goal, important settings, verification res
 ## Results
 
 Configuration and test results will be added as each milestone is completed.
+
+## Lab Environment
+
+| Component | Configuration |
+|---|---|
+| Host processor | AMD Ryzen 7 9700F, 8 cores |
+| Host memory | 32 GB RAM |
+| Host operating system | Windows 11 Home, version 25H2 |
+| Available storage when checked | Approximately 199 GB |
+| Hardware virtualization | Enabled, confirmed in Task Manager |
+| Virtualization software | Not selected yet |
+| Virtual machines | Not installed yet |
