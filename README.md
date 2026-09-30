@@ -6,7 +6,7 @@ This project documents my progress learning Windows Server administration and ne
 
 ## Current Status
 
-Planning and documentation setup. The GitHub repository has been created; the virtual machines have not been installed yet.
+Oracle VirtualBox 7.2.20 is installed and opens successfully. Hardware virtualization is enabled. The virtual machines have not been created yet.
 
 ## Planned Milestones
 
@@ -34,5 +34,4 @@ Configuration and test results will be added as each milestone is completed.
 | Host operating system | Windows 11 Home, version 25H2 |
 | Available storage when checked | Approximately 199 GB |
 | Hardware virtualization | Enabled, confirmed in Task Manager |
-| Virtualization software | Not selected yet |
-| Virtual machines | Not installed yet |
+| Virtualization software | Oracle VirtualBox 7.2.20 |
